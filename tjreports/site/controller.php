@@ -31,6 +31,7 @@ class TjreportsController extends JControllerLegacy
 	 */
 	public function display($cachable = false, $urlparams = false)
 	{
+		die("pooja");
 		parent::display();
 	}
 }
